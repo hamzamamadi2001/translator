@@ -1,0 +1,6 @@
+{
+    "my-module-example": {
+      "hello": "Bonjour depuis le module externe"
+    }
+  }
+  
